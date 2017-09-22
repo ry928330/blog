@@ -5,3 +5,4 @@
 > ### 2017.8
 ##### [canvas第一弹之页面截图实现](https://github.com/ry928330/screenShot)--2017.8.25
 ##### [canvas第二弹之<<接球小游戏>>DEMO](https://github.com/ry928330/ballGame)--2017.8.31
+##### [canvas第三弹之<<烟花>>DEMO](https://github.com/ry928330/blog/issues/1)--2017.9.22
