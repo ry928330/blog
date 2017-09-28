@@ -4,6 +4,7 @@
 
 > ### 2017.9
 ##### [canvas第三弹之<<烟花>>DEMO](https://github.com/ry928330/blog/issues/1)--2017.9.22
+##### [canvas之自定义头像功能实现](https://github.com/ry928330/blog/issues/2)--2017.9.28
 
 > ### 2017.8
 ##### [canvas第一弹之页面截图实现](https://github.com/ry928330/screenShot)--2017.8.25
