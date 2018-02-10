@@ -1,6 +1,6 @@
 # ryyyyy的博客--have a minimalist life
 ### 前言
-不积跬步，难以至千里。在这里我希望能用文字去记录自己的点滴成长，同时也和大家一起分享我的所学、所感及所悟。Homie，are you ready? Let's do it...
+学习让自己变得更好~
 
 
 > ### 2017.12
